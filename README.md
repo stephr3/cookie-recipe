@@ -1,4 +1,4 @@
-# Google Homepage Clone
+# Cookie Recipe
 ## *By Stephanie Gurung*
 
 A simple HTML page. One of my first projects at Epicodus.
